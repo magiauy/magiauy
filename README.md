@@ -18,7 +18,7 @@ I build and operate practical systems-from Minecraft server features and web adm
   </a>
 </p>
 
-**Minecraft Server Developer · 2024–Present**  
+**Minecraft Server Developer · 2024-Present**  
 [MeowSMP.net](https://meowsmp.net) is a Vietnamese Minecraft Slimefun server where technology, automation and community gameplay come together.
 
 - Develop, customize and optimize **Slimefun plugins and addons**.
@@ -48,7 +48,7 @@ I build and operate practical systems-from Minecraft server features and web adm
 ## Education
 
 **Bachelor of Information Technology**  
-Saigon University · 2022–2027 (Expected)
+Saigon University · 2022-2027 (Expected)
 
 ## Links
 
