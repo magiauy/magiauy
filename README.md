@@ -8,7 +8,7 @@
 
 </div>
 
-I build and operate practical systems—from Minecraft server features and web administration to internal workflow automation.
+I build and operate practical systems-from Minecraft server features and web administration to internal workflow automation.
 
 ## 🟩 Featured experience: MeowSMP.net
 
